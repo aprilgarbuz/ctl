@@ -16,7 +16,7 @@ A: Yes
 	Q(2.1):GOTO:3
 A: No
 	Q(2.2):GOTO:ineligible
-Q(3): Where they in the United States on June 15, 2012?
+Q(3): Were they in the United States on June 15, 2012?
 A: Yes
 	Q(3.1):GOTO:4
 A: No
